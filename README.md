@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
+  
+  #
+  
+  # 👾 
 
-<!--
-**nicomaz/nicomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+### Hey! I'm Nico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌟 I'm a Junior Software Developer with experience in JavaScript, React, React Native, PSQL, HTML & CSS among other things! 
+
+🌟 I'm currently building my **[portfolio](https://github.com/nicomaz/portfolio)** with Typescript and TailwindCSS. 
+
+🌟 I'm also learning Python and Figma to prepare for a new project idea (woop woop)
+
+### You can contact me
+📞 On **[LinkedIn](https://www.linkedin.com/in/nicolamazuryk/)** ! Feel free to drop a message 
+
+<div align="center">
+  
+#
+
+# 👾 
+
+</div>
