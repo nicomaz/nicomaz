@@ -11,7 +11,7 @@
 
 🌟 I'm a Junior Software Developer with experience in JavaScript, React, React Native, PSQL, HTML & CSS among other things! 
 
-🌟 I'm currently building my **[portfolio](https://github.com/nicomaz/portfolio)** with Typescript and TailwindCSS. 
+🌟 I'm currently building my portfolio!
 
 🌟 I'm also learning Python and Figma to prepare for a new project idea (woop woop)
 
