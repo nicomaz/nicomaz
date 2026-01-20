@@ -8,10 +8,6 @@
 
 ### Hey! I'm Nico
 
-
-🌟 Junior Software Developer working mainly with Python/Django & JS/React
-
-
 <div align="center">
   
 #
